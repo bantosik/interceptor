@@ -1,6 +1,6 @@
 {
   "name": "edproxy",
-  "description": "Proxy for traded project testing",
+  "description": "Proxy various front-end project testing",
   "version": "0.0.1",
   "dependencies": {
     "http-proxy": "^1.16.2"
